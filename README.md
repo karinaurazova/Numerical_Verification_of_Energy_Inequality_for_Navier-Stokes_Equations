@@ -135,7 +135,7 @@ pip install numpy matplotlib scipy
 ### Running Experiments
 ```python
 # Import the solver
-from navier_stokes_solver import StableNavierStokesSolver
+from Numerical_Verification_of_Energy_Inequality_for_Navier_Stokes_Equations import StableNavierStokesSolver
 
 # Choose experiment
 experiment = 2  # 1, 2, 3, or 4
