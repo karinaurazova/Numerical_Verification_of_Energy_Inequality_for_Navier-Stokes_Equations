@@ -127,6 +127,8 @@ git clone https://github.com/karinaurazova/Numerical_Verification_of_Energy_Ineq
 cd Numerical_Verification_of_Energy_Inequality_for_Navier-Stokes_Equations
 
 # Install dependencies
+pip install -r requirements.txt
+# OR
 pip install numpy matplotlib scipy
 ```
 
